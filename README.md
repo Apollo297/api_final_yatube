@@ -2,7 +2,26 @@
 ## Описание:
 API **вымышленной** социальной сети, c помощью которого можно выкладывать свои посты, комментировать посты других пользователей, удалять или редактировать свои записи. Также доступна возможность подписки и отписки на авторов соц.сети.
 ___
+
+**Цель данного проекта — реализация подхода к проектированию, при котором программная часть API разрабатывается на основе уже составленной документации, выступающей в роли технического задания.**
+
+### Используемые технологии:
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![image](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ## Установка:
+
+Если Python не установлен, скачайте и установите его с [официального сайта](https://www.python.org/downloads/).
+### Системные требования
+
+- **Версия Python**: 3.9 или выше
+- **Операционная система**: Windows / macOS / Linux
+
 Клонировать репозиторий и перейти в него в командной строке:
 ```python
 git clone https://github.com/Apollo297/api_final_yatube.git
